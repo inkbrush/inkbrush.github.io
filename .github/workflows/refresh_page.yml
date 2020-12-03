@@ -3,7 +3,7 @@ name: Refresh
 
 on:
   schedule:
-    - cron:  '59 * * * *' # Runs every hour
+    - cron:  '1 * * * *' # Runs every minute
 
 jobs:
   refresh:
