@@ -47,12 +47,14 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
+  - name: Python
+    web_url: https://github.com/topics/python?l=python
+    image_url: https://raw.githubusercontent.com/inkbrush/inkbrush.github.io/master/assets/python.png
+    
+  - name: Arduino
+    web_url: https://github.com/topics/arduino
     image_url: https://raw.githubusercontent.com/inkbrush/inkbrush.github.io/master/assets/arduino_circle.png
 
   - name: Web design
 
-  - name: Arduino
-    web_url: https://github.com/topics/arduino
-    image_url: https://raw.githubusercontent.com/inkbrush/inkbrush.github.io/master/assets/arduino_circle.png
+  
