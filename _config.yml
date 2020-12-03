@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     archived: false
     forks: true
@@ -54,7 +54,7 @@ topics:
   - name: Arduino
     web_url: https://github.com/topics/arduino
     image_url: https://raw.githubusercontent.com/inkbrush/inkbrush.github.io/master/assets/arduino_circle.png
-
+    
   - name: Web design
 
   
