@@ -1,4 +1,4 @@
-name: request pages rebuild
+name: rebuild pages every 30 minutes
 
 on:
   schedule:
