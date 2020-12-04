@@ -1,9 +1,9 @@
-# File: .github/workflows/refresh.yml
+# File: .github/workflows/request_build.yml
 name: Refresh
 
 on:
   schedule:
-    - cron:  '33 * * * *' # Runs every 33rd minute
+    - cron:  '37 * * * *' # Runs every 33rd minute
 
 jobs:
   refresh:
