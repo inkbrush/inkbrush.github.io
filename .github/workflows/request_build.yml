@@ -3,7 +3,7 @@ name: Refresh
 
 on:
   schedule:
-    - cron:  '37 * * * *' # Runs every 33rd minute
+    - cron:  '1 * * * *' # Runs every 33rd minute
 
 jobs:
   refresh:
@@ -14,4 +14,5 @@ jobs:
           curl \
           -X POST \
           -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token {{ secrets.USER_TOKEN }}"
           https://api.github.com/repos/agenovia/agenovia.github.io/pages/builds
