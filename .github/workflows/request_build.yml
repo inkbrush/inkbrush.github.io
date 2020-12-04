@@ -2,7 +2,7 @@ name: request pages rebuild
 
 on:
   schedule:
-    - cron:  '10 * * * *' # Runs every 33rd minute
+    - cron:  '*/30 * * * *'
 
 jobs:
   refresh:
@@ -15,5 +15,5 @@ jobs:
           curl \
           -X POST \
           -H "Accept: application/vnd.github.v3+json" \
-          -H "Authorization: token $env:token" \
+          -H "Authorization: token $token" \
           https://api.github.com/repos/agenovia/agenovia.github.io/pages/builds
