@@ -2,7 +2,7 @@ name: rebuild pages every hour
 
 on:
   schedule:
-    - cron:  '0 */1 * * *'
+    - cron:  '*/30 * * * *'
 
 jobs:
   refresh:
