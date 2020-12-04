@@ -2,7 +2,7 @@ name: request pages rebuild
 
 on:
   schedule:
-    - cron:  '1 * * * *' # Runs every 33rd minute
+    - cron:  '10 * * * *' # Runs every 33rd minute
 
 jobs:
   refresh:
