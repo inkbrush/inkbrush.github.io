@@ -1,8 +1,8 @@
-name: rebuild pages every hour
+name: rebuild pages every day
 
 on:
   schedule:
-    - cron:  '*/30 * * * *'
+    - cron:  '0 0 * * *'
 
 jobs:
   refresh:
