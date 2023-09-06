@@ -31,7 +31,7 @@ projects:
 social_media:
   linkedin: aaron-genovia-122241b5
   # hackerrank: aarongenovia
-  resume: https://drive.google.com/file/d/1u2dBfquBhT3uTeAsQrREJK9LL0YWhhA5/view
+  resume: https://drive.google.com/file/d/1-YCiRdYor63DLpA_Psabm1OgQYbNbr-S/view?format=pdf
   # resume: https://drive.google.com/file/d/1Uyhb79BbQSx9TlfJOSG0mlzOlttIytFM/view?export=PDF \\replaced 03/21/2023
   # resume: https://drive.google.com/file/d/189JZnApLK9ck9LgwTeImvpUfsGviRQRc/view?export=PDF \\replaced 10/18/2022
   # behance: your_username
@@ -49,17 +49,17 @@ social_media:
   # website: http://your_website_url
   # youtube: your_username
 
-topics:
-  - name: Python
-    web_url: https://github.com/topics/python?l=python
-    image_url: https://raw.githubusercontent.com/inkbrush/inkbrush.github.io/master/assets/python.png
+# topics:
+#   - name: Python
+#     web_url: https://github.com/topics/python?l=python
+#     image_url: https://raw.githubusercontent.com/inkbrush/inkbrush.github.io/master/assets/python.png
     
-  - name: Arduino
-    web_url: https://github.com/topics/arduino
-    image_url: https://raw.githubusercontent.com/inkbrush/inkbrush.github.io/master/assets/arduino_circle.png
+#   - name: Arduino
+#     web_url: https://github.com/topics/arduino
+#     image_url: https://raw.githubusercontent.com/inkbrush/inkbrush.github.io/master/assets/arduino_circle.png
     
-  - name: Docker
-    web_url: https://github.com/topics/docker
-    image_url: https://raw.githubusercontent.com/inkbrush/inkbrush.github.io/master/assets/Moby-logo.png
+#   - name: Docker
+#     web_url: https://github.com/topics/docker
+#     image_url: https://raw.githubusercontent.com/inkbrush/inkbrush.github.io/master/assets/Moby-logo.png
 
   
